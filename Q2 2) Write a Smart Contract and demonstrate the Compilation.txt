@@ -1,0 +1,38 @@
+2) Write a Smart Contract and demonstrate the steps
+involved in the process of compilation using Hardhat
+Development Environment.
+
+
+To Compile the contract in hardhat development environment u need to install hardhat environment 
+
+Open vscode
+Create a folder name hardhat 
+create subfolders for test , scripts , config
+
+Open terminal window 
+
+
+run command npm init --yes
+It will create a package.json file 
+
+run command npm install hardhat 
+
+run command npx harhat to open hardhat development 
+
+Go to option create an empty config file 
+
+Then u can write a solidity contract in script folder and save its as .sol
+
+on terminal use command cd scripts 
+
+it will open scripts directory 
+
+then use command npx hardhat compile and it will compile the contact 
+
+
+
+
+
+
+
+

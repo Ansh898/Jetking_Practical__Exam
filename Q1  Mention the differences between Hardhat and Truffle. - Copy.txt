@@ -1,0 +1,15 @@
+1) Mention the differences between Hardhat and Truffle.
+
+Hardhat and truffle and two of the most popoular ethereum development frameworks 
+
+Both frameworks have a numbe of tools and features that helps us to develop and build smart contracts 
+
+Hardhat can compile fast                    Truffle compile slowly
+hardhat has a low gas fee                   Truffle have a high gas fee 
+
+
+Hardhat is  More developer friendly than truffle 
+Hardhat is moderm framework than truffle 
+
+
+
